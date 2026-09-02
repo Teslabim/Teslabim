@@ -6,4 +6,4 @@ Teslabim - Плагин для проектирования раздела вн�
 
 Последняя версия:
 
-[Скачать Teslabim](../../releases/latest)
+[Скачать](../../releases/latest)
