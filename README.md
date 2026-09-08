@@ -1,15 +1,11 @@
 # ⚡ Teslabim
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Teslabim/Teslabim/main/Images/Teslabim.png" alt="Teslabim" width="180">
-</p>
 
-<h3 align="center">
-  Проектируйте электрику в Revit быстрее
-</h3>
+### Проектируйте электрику в Revit быстрее
 
-<p align="center">
-  Бесплатный плагин для проектирования раздела внутреннего электрооборудования в Autodesk Revit
+Бесплатный плагин для проектирования раздела внутреннего электрооборудования в Autodesk Revit
+
 </p>
 
 <p align="center">
