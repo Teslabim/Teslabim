@@ -2,19 +2,19 @@
   "product": "teslabim",
   "channel": "stable",
   "plugin": {
-    "latest": "18.0.0035",
+    "latest": "18.0.0036",
     "releases": [
       {
-        "version": "18.0.0035",
-        "released": "2026-09-17T20:44:57.1330078+00:00",
+        "version": "18.0.0036",
+        "released": "2026-09-18T19:09:11.7187573+00:00",
         "mandatory": false,
         "minUpdaterVersion": "1.0.0.0",
         "notesUrl": "https://www.teslabim.ru/news",
         "package": {
           "url": "https://github.com/Teslabim/Teslabim/releases/latest/download/TeslabimPlugin.msi",
-          "size": 79590188,
-          "sha256": "c942d66a3f6bf8895ce0260ab112f48e3136ca9ae63160aed7351be4afede853",
-          "signature": "FuZTT9m7CQtTdtQ6kIaRYsIP/FKke46M4yyyFR8RhB66UMF7gIaqnU7jjwaTp5d0zIF8G1Eu19FUXMjKXBwZPA=="
+          "size": 79594284,
+          "sha256": "0cb2312ef681cc12b6bd9fb01b3419ed6b197c91bfc8b0c058325ea7d4f67645",
+          "signature": "ly2QD7Y1Px3FIU5ybArbf8lFgRCr3htncYwKZRm+0rt1i60B1KPplJubLuZUSfEjYFzdBBurXnFr4+Tm/ftlgA=="
         }
       }
     ]
@@ -24,13 +24,13 @@
     "releases": [
       {
         "version": "1.0.14",
-        "released": "2026-09-17T20:44:57.2241798+00:00",
+        "released": "2026-09-18T19:09:11.8060178+00:00",
         "mandatory": false,
         "package": {
           "url": "https://github.com/Teslabim/Teslabim/releases/latest/download/TeslabimUpdater.msi",
           "size": 70909952,
           "sha256": "e6650eb1791698948d1b63d0ee5efbef69eb319805f297416446307d14174cf2",
-          "signature": "aIpjPM0XmjQcQv4daRcDb5R7ukIcDoT4N+vTy4z23fKoZDs4tb6yWrs9aHQsqVbAlbXbZNMM7dw7r+Kx3ENXQw=="
+          "signature": "XmXRm98XsHZmBVzl0ifqU/iLxOV1Rlak0gWipNgWD8/fvxL1UA0mxv+kaGY29clKh80Nm6QulBbeZmDWkuNJTA=="
         }
       }
     ]
