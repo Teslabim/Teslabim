@@ -2,19 +2,19 @@
   "product": "teslabim",
   "channel": "test",
   "plugin": {
-    "latest": "18.1.0001",
+    "latest": "18.1.0002",
     "releases": [
       {
-        "version": "18.1.0001",
-        "released": "2026-09-22T21:12:06.9188579+00:00",
+        "version": "18.1.0002",
+        "released": "2026-09-23T20:46:36.3981646+00:00",
         "mandatory": false,
         "minUpdaterVersion": "1.0.0.0",
         "notesUrl": "https://www.teslabim.ru/news",
         "package": {
-          "url": "https://github.com/Teslabim/Teslabim/releases/download/18.1.0001-test/TeslabimPlugin_v18.1.0001.msi",
-          "size": 83018616,
-          "sha256": "114066562b036fc5d80a21c18369e6c41b5aa25bc0a6af8fa27a1952cd69ba2c",
-          "signature": "O8uspApkvJhd0vb5FpkIo4XrO+bsT6ddrXEB5AQOPgQMlYUT9IRIKQcm4gCS4cf5h/1S2QRErg0voYiowQgmlQ=="
+          "url": "https://github.com/Teslabim/Teslabim/releases/download/18.1.0002-test/TeslabimPlugin_v18.1.0002.msi",
+          "size": 83039096,
+          "sha256": "11bf4fc4876331efa8f2e7fbfe3cac1941c7cd68c658fb3643b95136fd4e0828",
+          "signature": "t8kVGEOwcvffT5sJrx9oXHj0vnmdB59szjP15xApi1uXEEWWVRbeYOf95o4GWecx0RWXXmkgentSmfFwlRHp2Q=="
         }
       }
     ]
